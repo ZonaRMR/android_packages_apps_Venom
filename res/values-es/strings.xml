@@ -29,7 +29,7 @@
   <string name="quicksettings_title">Ajustes Rápidos</string>
   <string name="traffic_category">Indicadores de tráfico de red</string>
   <string name="recents_title">Pantalla de recientes</string>
-  <string name="carrierlabel_title">Nombre de operador</string>
+  <string name="carrierlabel_title">Nombre del operador</string>
   <string name="lockscreen_ui_title">Pantalla de bloqueo</string>
   <!-- Dialog -->
   <string name="venom_dialog_title">¡Ayúdanos a ayudarte!</string>
